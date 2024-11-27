@@ -1,0 +1,18 @@
+ID,Nombre,Categoria,Valor Unitario
+M100,Arena,Petréos,7500
+M101,Azulejo,Cerámicos,34900
+M102,Cal,Petréos,16800
+M103,Cemento,Petréos,28500
+M104,Granito,Petréos,37900
+M105,Grava,Petréos,7400
+M106,Ladrillo,Cerámicos,1100
+M107,Listón Pino,Orgánicos,22900
+M108,Malla,Metálicos,79900
+M109,Mármol,Petréos,46300
+M110,Mortero,Petréos,19900
+M111,Tablero,Orgánicos,59900
+M112,Teja,Cerámicos,54937
+M113,Triplex,Orgánicos,40289
+M114,Tubo Estructural,Metálicos,269900
+M115,Varillas Acero,Metálicos,35290
+M116,Yeso,Petréos,13900

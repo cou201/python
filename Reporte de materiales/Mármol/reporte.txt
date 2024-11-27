@@ -1,0 +1,3 @@
+Cantidad total de material utilizado: 0
+Promedio de material utilizado: nan
+Cantidad de dinero necesario: 0

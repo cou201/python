@@ -1,0 +1,3 @@
+Total quantity of material: 67
+Average material used: 4.19
+Total material cost: 5353300.00

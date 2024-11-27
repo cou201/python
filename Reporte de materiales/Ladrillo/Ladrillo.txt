@@ -1,0 +1,3 @@
+Cantidad total de material: 93
+Promedio de material utilizado: 4.23
+Costo total de material: 102300.00
